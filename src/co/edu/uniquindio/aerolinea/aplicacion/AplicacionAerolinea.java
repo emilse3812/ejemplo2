@@ -16,7 +16,11 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 
 public class AplicacionAerolinea extends Application {
-	
+//hola esto es un comentario
+	/*
+	 * clase aerolinea
+	 */
+
 	private Stage primaryStage;
 	private Stage dialogStage;
 	
